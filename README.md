@@ -4,7 +4,7 @@
 
 This repo is my learning log. I'm following a 65-week roadmap where every week ends with something that runs: a simulator, a controller, a trained policy, or code on real hardware. One project thread connects it all, from a pendulum simulated in NumPy to a learned policy running in C++ on a real robot.
 
-📅 **60-day challenge:** daily updates on X → [@your_handle](https://x.com/your_handle)
+📅 **60-day challenge:** daily updates on X → [Tzyckiii](https://x.com/TZyckiii)
 🗺️ **Full week-by-week plan with all materials:** [ROADMAP.md](ROADMAP.md)
 
 ---
@@ -84,6 +84,6 @@ Key results land here as they come in.
 
 ## Follow along
 
-X: [@your_handle](https://x.com/your_handle)
+X: [@Tzyckiii](https://x.com/TZyckiii)
 
 Feedback, suggestions and corrections are very welcome — open an issue or reply on X.
