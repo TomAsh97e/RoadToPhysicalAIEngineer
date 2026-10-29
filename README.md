@@ -32,8 +32,8 @@ This repo is my learning log. I'm following a 65-week roadmap where every week e
 
 | Week | What I build | Deliverable | Status |
 | --- | --- | --- | --- |
-| 1 | Environment + pendulum simulator in NumPy with RK4 integration | Angle-over-time plot | ⬜ |
-| 2 | Vectorization: 1000 pendulums at once, no loops | Loop vs vectorized benchmark | ⬜ |
+| 1 | Environment + pendulum simulator in NumPy with RK4 integration | Angle-over-time plot | ✅ |
+| 2 | Vectorization: 1000 pendulums at once, no loops | Loop vs vectorized benchmark | 🟨 |
 | 3 | Linearization, eigenvalues, LQR for the inverted pendulum | Pendulum stabilized by LQR | ⬜ |
 | 4 | micrograd in Python: autograd from scratch | Working autograd with gradient tests | ⬜ |
 | 5 | micrograd ported to C++: computation graph, backprop, small MLP | Autograd in C++ | ⬜ |
